@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342536848408",
+    "firebase_url": "https://meto-980e4.firebaseio.com",
+    "project_id": "meto-980e4",
+    "storage_bucket": "meto-980e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342536848408:android:ea964b20558cd35c2fef6d",
+        "android_client_info": {
+          "package_name": "ak.wp.meto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342536848408-0k3t7ksbhs6025dd0grkvl4m7n8bsa4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrQtAflpLw1-dFvWLnlVuLvmUx9N3kmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342536848408-0k3t7ksbhs6025dd0grkvl4m7n8bsa4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

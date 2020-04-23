@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">342536848408-0k3t7ksbhs6025dd0grkvl4m7n8bsa4q.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://meto-980e4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">342536848408</string>
+    <string name="google_api_key" translatable="false">AIzaSyBJrQtAflpLw1-dFvWLnlVuLvmUx9N3kmA</string>
+    <string name="google_app_id" translatable="false">1:342536848408:android:ea964b20558cd35c2fef6d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJrQtAflpLw1-dFvWLnlVuLvmUx9N3kmA</string>
+    <string name="google_storage_bucket" translatable="false">meto-980e4.appspot.com</string>
+    <string name="project_id" translatable="false">meto-980e4</string>
+</resources>
